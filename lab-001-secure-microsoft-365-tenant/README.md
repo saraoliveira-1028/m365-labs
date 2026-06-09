@@ -182,3 +182,8 @@ Changes were successfully saved, but there was a delay before the Entra ID porta
 - Microsoft Entra ID Conditional Access
 - Microsoft Self-Service Password Reset
 - Microsoft Security Best Practices
+
+## Additional Notes
+
+- [Questions and Research](notes/questions.md)
+- [Issues Encountered](notes/issues-encountered.md)
