@@ -292,6 +292,6 @@ Delegated User Administrators:
 
 ---
 
-## Related Notes
+## Additional Notes
 
-* Questions and Research
+- [Questions and Research](notes/questions.md)
