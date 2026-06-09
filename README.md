@@ -14,16 +14,9 @@ This repository contains hands-on Microsoft 365 labs, technical documentation, t
 - PowerShell
 - Troubleshooting
 
-## Repository Structure
+## List of Contents
 
-```text
-Exchange-Online/
-SharePoint/
-Teams/
-Entra-ID/
-PowerShell/
-Troubleshooting/
-```
+- [LAB 001 — Secure Microsoft 365 Tenant](lab-001-secure-microsoft-365-tenant/README.md)
 
 ## Disclaimer
 
