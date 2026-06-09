@@ -347,6 +347,6 @@ Export-Csv -Path "C:\Temp\Mailboxes.csv" -NoTypeInformation -Encoding UTF8
 
 ---
 
-## Related Notes
+## Additional Notes
 
-* Issues Encountered
+- [Issues Encountered](notes/issues-encountered.md)
