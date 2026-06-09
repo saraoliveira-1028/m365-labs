@@ -151,6 +151,8 @@ Rule:
 user.department -eq "Finance"
 ```
 
+<img width="1623" height="582" alt="002-grupo-dinamico" src="https://github.com/user-attachments/assets/93966888-7e68-4a93-8c8e-f010617e47b2" />
+
 ### Validation
 
 A new Finance user was created and automatically added to the group.
@@ -172,6 +174,8 @@ Automate Microsoft 365 license assignment.
 ### Configuration
 
 Microsoft 365 E5 licenses were assigned directly to the security group.
+
+<img width="1626" height="675" alt="003-licenciamento" src="https://github.com/user-attachments/assets/ba29b44e-713f-484a-9fd6-7970dce8cecf" />
 
 ### Validation Tests
 
@@ -251,6 +255,9 @@ Examples:
 ### Delegated Administration
 
 The User Administrator role was delegated within Administrative Units.
+
+<img width="1627" height="699" alt="004-delegacao" src="https://github.com/user-attachments/assets/8373fd74-3044-4ab1-bfe8-110ae8ae9c7f" />
+<img width="1626" height="333" alt="005-delegacao" src="https://github.com/user-attachments/assets/53a85d83-4373-4b1d-a528-9ccb18543e01" />
 
 ### Observations
 
