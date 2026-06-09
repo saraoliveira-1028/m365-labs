@@ -75,9 +75,15 @@ Following Microsoft's recommendation, MFA was enforced through Conditional Acces
 
 Targets administrative accounts and requires MFA.
 
+<img width="606" height="647" alt="001-mfa-acesso-condicional" src="https://github.com/user-attachments/assets/f4ec7878-f0ae-4d4a-9f4f-bf2bbd53913b" />
+<img width="310" height="358" alt="002-mfa-acesso-condicional" src="https://github.com/user-attachments/assets/9f7b7e5e-0974-4621-bf78-e2a1c0d49d03" />
+<img width="606" height="618" alt="003-mfa-acesso-condicional" src="https://github.com/user-attachments/assets/93969b63-8d06-44ea-ad06-0a85cce54983" />
+
 #### [Users] MFA Enabled
 
 Targets standard users and requires MFA.
+
+<img width="1287" height="130" alt="004-mfa-acesso-condicional" src="https://github.com/user-attachments/assets/75ce0a03-c287-4cb9-a756-fc592c91eb9d" />
 
 ### Configuration Notes
 
@@ -94,6 +100,11 @@ Configured Conditional Access policies to require MFA for users and administrato
 ### Policy: Block Legacy Authentication
 
 Created a Conditional Access policy to block legacy authentication protocols.
+
+<img width="620" height="370" alt="005-block-autenticacao-legada" src="https://github.com/user-attachments/assets/c9435b0c-9e97-4e13-abfa-2baa9e130508" />
+<img width="613" height="519" alt="006-block-autenticacao-legada" src="https://github.com/user-attachments/assets/f4664cd9-4c18-4ed7-b980-c6d6c1ab6a35" />
+<img width="1628" height="603" alt="007-block-autenticacao-legada" src="https://github.com/user-attachments/assets/d76f32a7-c9f7-4e84-9918-909d909699a7" />
+<img width="1619" height="648" alt="008-block-autenticacao-legada" src="https://github.com/user-attachments/assets/71faf416-9aaf-4c48-8a85-8ad33bc96af0" />
 
 ### Rationale
 
