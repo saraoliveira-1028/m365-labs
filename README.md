@@ -17,6 +17,7 @@ This repository contains hands-on Microsoft 365 labs, technical documentation, t
 ## List of Contents
 
 - [LAB 001 — Secure Microsoft 365 Tenant](lab-001-secure-microsoft-365-tenant/README.md)
+- [LAB 002 — Identity and Governance Fundamentals](lab-002-identity-governance-fundamentals/README.md)
 
 ## Disclaimer
 
