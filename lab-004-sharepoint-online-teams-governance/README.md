@@ -170,3 +170,4 @@ $Settings["GroupCreationAllowedGroupId"] = $GroupId
 Set-AzureADDirectorySetting -Id $Settings.Id -DirectorySetting $Settings
 ```
 ---
+## Additional Notes
