@@ -171,3 +171,5 @@ Set-AzureADDirectorySetting -Id $Settings.Id -DirectorySetting $Settings
 ```
 ---
 ## Additional Notes
+
+- [Supplementary Research](notes/supplementary-research.md)
