@@ -19,7 +19,7 @@ This repository contains hands-on Microsoft 365 labs, technical documentation, t
 - [LAB 001 — Secure Microsoft 365 Tenant](lab-001-secure-microsoft-365-tenant/README.md)
 - [LAB 002 — Identity and Governance Fundamentals](lab-002-identity-governance-fundamentals/README.md)
 - [LAB 003 — Exchange Online Administration](lab-003-exchange-online-administration/README.md)
-- [LAB 004 - SharePoint Online + Teams Governance](lab-004-sharepoint-online-teams-governance/README.md)
+- [LAB 004 — SharePoint Online + Teams Governance](lab-004-sharepoint-online-teams-governance/README.md)
 
 ## Disclaimer
 
