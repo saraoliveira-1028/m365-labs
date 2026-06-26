@@ -390,4 +390,4 @@ A fully automated report containing all active Microsoft 365 users was generated
 
 ## Related Notes
 
-* [Issues Encountered](issues-encountered.md)
+* [Issues Encountered](notes/issues-encountered.md)
