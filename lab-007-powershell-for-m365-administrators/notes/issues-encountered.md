@@ -49,6 +49,9 @@ Connect-MgGraph -Scopes "User.Read.All","Directory.Read.All"
 
 After reconnecting, the command executed successfully.
 
+<img width="973" height="323" alt="013-get-command" src="https://github.com/user-attachments/assets/12849d0d-41be-470a-aba8-277d939284f2" />
+
+
 ### Lessons Learned
 
 * Successfully authenticating to Microsoft Graph does not guarantee permission to execute all cmdlets.
