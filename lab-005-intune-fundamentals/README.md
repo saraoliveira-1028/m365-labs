@@ -196,4 +196,6 @@ Device is ready for corporate use
 Navigate to **Reports** to audit configurations. Administrators can monitor environmental compliance statuses, Windows updates, software health, and application installation progress across the organization by filtering data using dropdown menus and selecting **Generate report**.
 
 ---
+## Additional Notes
 
+- [Supplementary Research](notes/supplementary-research.md)
