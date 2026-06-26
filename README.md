@@ -22,6 +22,7 @@ This repository contains hands-on Microsoft 365 labs, technical documentation, t
 - [LAB 004 — SharePoint Online + Teams Governance](lab-004-sharepoint-online-teams-governance/README.md)
 - [LAB 005 — Intune Fundamentals](lab-005-intune-fundamentals/README.md)
 - [LAB 006 — Copilot Readiness](lab-006-copilot-readiness/README.md)
+- [LAB 007 — PowerShell for Microsoft 365 Administrators](lab-007-powershell-for-m365-administrators/README.md)
 
 ## Disclaimer
 
